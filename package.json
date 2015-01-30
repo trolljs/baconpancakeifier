@@ -1,0 +1,19 @@
+{
+  "name": "baconpancakeifier",
+  "version": "1.0.0",
+  "description": "You don't want that boring site. What you WANT is bacon pancakes.",
+  "main": "baconpancakeifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trolljs/baconpancakeifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trolljs/baconpancakeifier/issues"
+  },
+  "homepage": "https://github.com/trolljs/baconpancakeifier"
+}
