@@ -9,4 +9,4 @@ or
 ```
 
 ### Misc:
-This library adheres to the tenets of NO REGRETS coding. It is certainly not strict mode.
+This library adheres to the tenets of NO REGRETS coding. It is certainly not in strict mode.
