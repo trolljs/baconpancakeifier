@@ -1,4 +1,7 @@
 # BaconPancakeifier
+
+http://youtu.be/oOKk9KpHWnE
+
 ### Improve your life:
 ```
 npm install --save baconpancakeifier
