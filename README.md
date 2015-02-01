@@ -1,5 +1,7 @@
 # BaconPancakeifier
 
+You don't want that boring site. What you WANT is bacon pancakes.
+
 http://youtu.be/oOKk9KpHWnE
 
 ### Improve your life:
